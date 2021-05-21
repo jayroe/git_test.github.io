@@ -3,8 +3,11 @@
 		<title>index.html</title>
 	</head>
 	<body>
+
 		<div id="container">
 			<div id="header"></div>
+			<div id="banner"></div>
 		</div>
+
 	</body>
 </html>
